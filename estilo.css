@@ -1,0 +1,9 @@
+.parrafo{
+    font-size: 20px;
+    font-weight: bold;
+    color: brown;
+}
+.skills{
+    position: static;
+    color: red;
+}
